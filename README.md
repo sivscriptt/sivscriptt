@@ -9,26 +9,36 @@
 ╚══════╝╚═╝  ╚═══╝  ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝      ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+full-stack+dev+%2B+founder;%3E+building+OSYRA+YMS+%E2%9A%93;%3E+building+atoll+media+group;%3E+caffeine+%E2%86%92+code+%E2%86%92+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami;%3E+0xsivscriptt;%3E+dev+%2B+script+kiddie;%3E+nmap+by+night+%C2%B7+ship+by+day;%3E+.%2Frecon+%E2%86%92+.%2Fpwn+%E2%86%92+.%2Fprofit;%3E+sudo+apt+install+vibes)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ```bash
-$ traceroute sivscriptt
+$ nmap -sV --open localhost
 ```
 
 ```
- 1  zsh.local                    0.4 ms
- 2  cursor · vscode             12.1 ms
- 3  next.js · typescript        48.7 ms
- 4  supabase · drizzle · do     72.4 ms
- 5  vercel · cloudflare · dns  118.5 ms
- 6  github.com / sivscriptt    142.0 ms
- 7  ⌁   *   *   *   destination unreachable
-    > shipping from 4.1755°N · 73.5093°E
-    > currently building: osyra-yms · atoll-media · msw-erp
+PORT       STATE  SERVICE       VERSION
+22/tcp     open   ssh           OpenSSH-curiosity 9.0
+80/tcp     open   http          building cool stuff
+443/tcp    open   https         shipping fast
+1337/tcp   open   leet          script-kiddie ops
+8080/tcp   open   coffee-srv    caffeine.exe v∞
+31337/tcp  open   pwn           always learning
+
+⌁ host is up · firewall: ☕ · uptime: ∞
+```
+
+```bash
+$ cat ~/.bashrc | grep alias
+```
+
+```
+alias build='./recon && ./code && ./ship'
+alias break='./recon && ./pwn  && ./report'
+alias sleep='echo "sleep is for the unencrypted"'
 ```
 
 ---
