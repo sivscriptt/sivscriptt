@@ -50,10 +50,8 @@ const projects = [
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=sivscriptt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)
+![stats](https://github-readme-stats.vercel.app/api?username=sivscriptt&show_icons=true&hide=commits&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivscriptt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9)
-
-![streak](https://streak-stats.demolab.com?user=sivscriptt&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
 </div>
 
