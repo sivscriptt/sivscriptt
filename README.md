@@ -16,34 +16,19 @@
 ---
 
 ```bash
-$ neofetch
+$ traceroute sivscriptt
 ```
 
-```yaml
-sivscriptt@github
-─────────────────
- OS        : macOS Sequoia
- Shell     : zsh + claude code
- Editor    : cursor · vscode
- Stack     : next.js · react · typescript · tailwind
- Backend   : supabase · postgres · drizzle · auth.js
- Cloud     : vercel · digitalocean · cloudflare
- Currently : shipping yacht charter saas (OSYRA)
- Vibe      : ship fast · ship clean
- Uptime    : ∞
 ```
-
----
-
-### `~/projects`
-
-```ts
-const projects = [
-  { name: "OSYRA YMS",       stack: "next · drizzle · do spaces",  desc: "maldivian yacht charter saas" },
-  { name: "atoll media",     stack: "next · three · framer",       desc: "premium DOOH landing"        },
-  { name: "msw-erp",         stack: "next · supabase",             desc: "field ops + invoicing"       },
-  { name: "scrapbook",       stack: "next · zustand · supabase",   desc: "interactive flipbook"        },
-] as const;
+ 1  zsh.local                    0.4 ms
+ 2  cursor · vscode             12.1 ms
+ 3  next.js · typescript        48.7 ms
+ 4  supabase · drizzle · do     72.4 ms
+ 5  vercel · cloudflare · dns  118.5 ms
+ 6  github.com / sivscriptt    142.0 ms
+ 7  ⌁   *   *   *   destination unreachable
+    > shipping from 4.1755°N · 73.5093°E
+    > currently building: osyra-yms · atoll-media · msw-erp
 ```
 
 ---
